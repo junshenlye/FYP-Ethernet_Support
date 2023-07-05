@@ -14,5 +14,6 @@ Data is being Visualized as well as being analyse
 
 # Time Series Analysis
 ![image](https://github.com/junshenlye/FYP-Ethernet_Support/assets/69711881/f513fa8c-e3ce-4c53-8424-005585a8afd3)
-![Uploading image.png…]()
+![image](https://github.com/junshenlye/FYP-Ethernet_Support/assets/69711881/91847dfd-a7e4-43de-a521-deac1d5b1c19)
+
 
